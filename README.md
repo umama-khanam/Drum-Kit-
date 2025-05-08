@@ -21,7 +21,7 @@ A fun and interactive Drum Kit project built using **HTML**, **CSS**, and **Java
 - DOM manipulation and event handling
 - Adding sound using the `Audio` object
 - Implementing keypress events
-- Using `switch` and `if-else` for control flow
+- Using `switch` and `for-loop` for control flow
 - Applying CSS classes dynamically with JavaScript
 - Basic animation with CSS and JavaScript interaction
 
