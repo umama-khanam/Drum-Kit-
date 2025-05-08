@@ -10,7 +10,7 @@ A fun and interactive Drum Kit project built using **HTML**, **CSS**, and **Java
 - Smooth button animation effect when triggered
 - Sound effects for each drum
 - Responsive design 
-- JavaScript control structures like `switch` and `if-else` used
+- JavaScript control structures like `switch` and `for-loop` used
 - Clean and modular code using beginner to intermediate JavaScript concepts
   
 ## Link to the Drum-Kit Project-
